@@ -1,1 +1,11 @@
+html,body,*{
+margin:0;
+padding:0
+}
 
+h1{
+  color:blue;
+  background -color:yellow;
+  padding:50px;
+  text-align:center;
+}
