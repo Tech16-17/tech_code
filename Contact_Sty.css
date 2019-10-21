@@ -1,1 +1,20 @@
 
+h1{
+    text-align: center;
+    font-size: 60px;
+    text-transform: uppercase;
+    font-style: italic;
+    color:blue;
+}
+body{
+    background-image: url(dss.jpg);
+    background-position: center;
+}
+img{
+    width: 60px;
+    height: 60px;
+}
+.dinu{
+    text-align: center;
+    font-size: 50px;
+}
